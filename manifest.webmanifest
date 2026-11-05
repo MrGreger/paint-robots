@@ -1,0 +1,9 @@
+{
+  "name": "Paint Robots",
+  "short_name": "Paint Robots",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#21232b",
+  "theme_color": "#21232b"
+}
